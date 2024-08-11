@@ -1,14 +1,24 @@
-# UE Asset Prefixer
+# 📄 UE Asset Prefixer
 Simple plugin that you can edit unreal blueprint asset's prefix.
 
-# How to Use
-1. Install this plugin in the 'plugins' folder
+# 📄 How to Use
+1. Install this plugin in the `plugins` folder
+   
 2. Select blueprint assets you want to add prefix
-3. Right click → Scripted Asset Actions → Add Prefix
+   
+3. Right click → `Scripted Asset Actions` → `Add Prefix`  
+![howtouse0](https://github.com/user-attachments/assets/1a21700c-515e-42e2-a07f-fa02ee348cf7)
 
-# All Source Code
-You can customize prefix mapping.
+4. Done!  
+![howtouse1](https://github.com/user-attachments/assets/b92a6531-bd5f-47bc-8ae4-410178e2df01)
+
+# 📄 How to Edit Prefixes
+You can customize prefix mapping esaily.
+
 See `/AssetPrefixer/Python/BP_AddPrefix`
+
+# 🚀 All Source Code
+
 ```python
 import unreal
 
