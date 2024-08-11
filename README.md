@@ -17,7 +17,7 @@ You can customize prefix mapping esaily.
 
 See `/AssetPrefixer/Python/BP_AddPrefix`
 
-# 🚀 All Source Code
+# 🚀 Full Source Code
 
 ```python
 import unreal
