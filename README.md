@@ -2,9 +2,9 @@
 Simple plugin that you can edit unreal blueprint asset's prefix.
 
 # 📄 How to Use
-1. Install this plugin in the `plugins` folder
+1. Install this plugin in the `plugins` folder.
    
-2. Select blueprint assets you want to add prefix
+2. Select blueprint assets you want to add prefix.
    
 3. Right click → `Scripted Asset Actions` → `Add Prefix`  
 ![howtouse0](https://github.com/user-attachments/assets/1a21700c-515e-42e2-a07f-fa02ee348cf7)
