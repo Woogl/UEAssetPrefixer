@@ -17,7 +17,7 @@ Worked with Unreal Engine 5.1.1
 # 📄 How to Edit Prefixes
 You can customize prefix mapping esaily.
 
-See `/AssetPrefixer/Python/BP_AddPrefix`
+See `/Content/Python/add_prefix.py`
 
 # 🚀 Full Source Code
 
