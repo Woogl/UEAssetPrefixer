@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AssetPrefixer",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Woogle",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "AssetPrefixer",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
